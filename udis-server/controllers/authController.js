@@ -1,4 +1,4 @@
-const User = require('..udis-server/models/User.js');
+const User = require('../models/user');
 const jwt = require('jsonwebtoken');
 
 // Generate JWT Token
